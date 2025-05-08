@@ -18,4 +18,6 @@ Make sure Python is installed on your system.
 Install OpenCV:
 pip install opencv-python
 
-3.Run the Python script: python background_substitution.py 🧠 Requirements Python 3.x OpenCV 📜 License This project is for educational purposes only. Add a license if you plan to publish it publicly.# OpenCV--Virtual-background-replacement
+3.Run the Python script: python background_substitution.py 🧠 
+
+Requirements Python 3.x OpenCV 📜 License This project is for educational purposes only. Add a license if you plan to publish it publicly.# OpenCV--Virtual-background-replacement
